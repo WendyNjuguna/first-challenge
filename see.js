@@ -17,7 +17,7 @@ function studentGradeGenerator() {
   } else if (score >= 0 && score <= 39) {
     console.log("E");
   } else {
-    console.log("Invalid Input!");
+    console.log("Invalid Input!")
   }
 }
 //Call the function studentGradeGenerator.
